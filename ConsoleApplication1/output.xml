@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!--Created @2/14/2013 2:29:15 PM-->
+<results>
+  <operation>
+    <variablea>10</variablea>
+    <variableb>10</variableb>
+    <operator>+</operator>
+    <result>20</result>
+  </operation>
+  <operation>
+    <variablea>10</variablea>
+    <variableb>10</variableb>
+    <operator>-</operator>
+    <result>0</result>
+  </operation>
+  <operation>
+    <variablea>10</variablea>
+    <variableb>10</variableb>
+    <operator>*</operator>
+    <result>100</result>
+  </operation>
+  <operation>
+    <variablea>10</variablea>
+    <variableb>10</variableb>
+    <operator>/</operator>
+    <result>1</result>
+  </operation>
+</results>

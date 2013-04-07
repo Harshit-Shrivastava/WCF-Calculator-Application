@@ -1,0 +1,1 @@
+C:\Documents and Settings\SESA270296\My Documents\Visual Studio 2010\Projects\XmlWcfHostApplication\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache

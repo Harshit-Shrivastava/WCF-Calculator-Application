@@ -1,0 +1,7 @@
+C:\Documents and Settings\SESA270296\My Documents\Visual Studio 2010\Projects\XmlWcfHostApplication\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SESA270296\My Documents\Visual Studio 2010\Projects\XmlWcfHostApplication\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\SESA270296\My Documents\Visual Studio 2010\Projects\XmlWcfHostApplication\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\SESA270296\My Documents\Visual Studio 2010\Projects\XmlWcfHostApplication\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\SESA270296\My Documents\Visual Studio 2010\Projects\XmlWcfHostApplication\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\SESA270296\Documents\Visual Studio 2010\Projects\XmlWcfHostApplication\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\SESA270296\Documents\Visual Studio 2010\Projects\XmlWcfHostApplication\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

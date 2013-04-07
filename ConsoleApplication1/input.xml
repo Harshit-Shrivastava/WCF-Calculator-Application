@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<operations>
+
+  <operation>
+    <vara>10</vara>
+    <varb>10</varb>
+    <oper>+</oper>
+  </operation>
+
+
+  <operation>
+    <vara>10</vara>
+    <varb>10</varb>
+    <oper>-</oper>
+  </operation>
+
+
+  <operation>
+    <vara>10</vara>
+    <varb>10</varb>
+    <oper>*</oper>
+  </operation>
+
+
+  <operation>
+    <vara>10</vara>
+    <varb>10</varb>
+    <oper>/</oper>
+  </operation>
+
+</operations>

@@ -1,0 +1,9 @@
+c:\documents and settings\sesa270296\my documents\visual studio 2010\Projects\XmlWcfHostApplication\XmlWcfHostApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SESA270296\My Documents\Visual Studio 2010\Projects\XmlWcfHostApplication\XmlWcfHostApplication\bin\Debug\XmlWcfHostApplication.exe
+C:\Documents and Settings\SESA270296\My Documents\Visual Studio 2010\Projects\XmlWcfHostApplication\XmlWcfHostApplication\bin\Debug\XmlWcfHostApplication.pdb
+C:\Documents and Settings\SESA270296\My Documents\Visual Studio 2010\Projects\XmlWcfHostApplication\XmlWcfHostApplication\bin\Debug\XmlWcfServiceLibrary.dll
+C:\Documents and Settings\SESA270296\My Documents\Visual Studio 2010\Projects\XmlWcfHostApplication\XmlWcfHostApplication\bin\Debug\XmlWcfServiceLibrary.pdb
+C:\Documents and Settings\SESA270296\My Documents\Visual Studio 2010\Projects\XmlWcfHostApplication\XmlWcfHostApplication\obj\x86\Debug\XmlWcfHostApplication.exe
+C:\Documents and Settings\SESA270296\My Documents\Visual Studio 2010\Projects\XmlWcfHostApplication\XmlWcfHostApplication\obj\x86\Debug\XmlWcfHostApplication.pdb
+C:\Users\SESA270296\Documents\Visual Studio 2010\Projects\XmlWcfHostApplication\XmlWcfHostApplication\obj\x86\Debug\XmlWcfHostApplication.exe
+C:\Users\SESA270296\Documents\Visual Studio 2010\Projects\XmlWcfHostApplication\XmlWcfHostApplication\obj\x86\Debug\XmlWcfHostApplication.pdb
